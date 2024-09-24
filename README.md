@@ -53,7 +53,7 @@
 - Created an AI chatbot capable of voice interaction using NLP algorithms.
 - Integrated features like voice synthesis and chatbot personality.
 
-### [k-Means Clustering Mini Project]
+### k-Means Clustering Mini Project
 - Developed a project using k-Means clustering to categorize data efficiently.
 - Utilized Python, NumPy, and Matplotlib for visualization.
 
