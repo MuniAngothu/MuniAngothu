@@ -18,7 +18,7 @@ My work is anchored in:
 
 ## 🏢 About DMV CoreTech
 
-**DMV CoreTech** is an **IT Solutions & Technology Services company** headquartered in **Silvassa, Dadra and Nagar Haveli, India**. We help businesses and startups accelerate digital transformation with a combination of **software engineering, intelligent systems, and cloud-first solutions**. :contentReference[oaicite:1]{index=1}
+**DMV CoreTech** is an **IT Solutions & Technology Services company** headquartered in **Silvassa, Dadra and Nagar Haveli, India**. We help businesses and startups accelerate digital transformation with a combination of **software engineering, intelligent systems, and cloud-first solutions**. 
 
 Our mission is to empower organizations to achieve **growth, automation, and competitive advantage** by leveraging modern technologies.
 
@@ -32,36 +32,36 @@ At DMV CoreTech, we deliver a wide spectrum of technology solutions aligned to i
 - Fully tailored **web applications and portals**  
 - Enterprise-grade backend systems  
 - Responsive user interfaces and progressive web apps  
-- E-commerce platforms and dashboards :contentReference[oaicite:2]{index=2}
+- E-commerce platforms and dashboards 
 
 ### 2. **Mobile Application Development**
 - **Native & Cross-platform mobile apps**  
 - App ecosystem strategy and deployment  
-- Performance optimization and user engagement features :contentReference[oaicite:3]{index=3}
+- Performance optimization and user engagement features 
 
 ### 3. **AI & Machine Intelligence**
 - **AI integration for workflows and automation**  
 - NLP-powered solutions and predictive systems  
-- Intelligent chatbots, recommendation engines, and generative AI models :contentReference[oaicite:4]{index=4}
+- Intelligent chatbots, recommendation engines, and generative AI models
 
 ### 4. **Cloud Computing & Infrastructure**
 - Cloud-native application design  
 - Cloud migration, scaling, and maintenance  
-- Secure infrastructure design and continuous deployment :contentReference[oaicite:5]{index=5}
+- Secure infrastructure design and continuous deployment 
 
 ### 5. **Data Analytics & BI**
 - Data pipeline design and analytics frameworks  
 - Business Intelligence dashboards  
-- Insights-driven decision support systems :contentReference[oaicite:6]{index=6}
+- Insights-driven decision support systems 
 
 ### 6. **IT Consulting & Digital Strategy**
 - Technology strategy planning  
 - Product architecture advisory  
 - Digital transformation roadmaps  
-- Technical expertise for startups to enterprises :contentReference[oaicite:7]{index=7}
+- Technical expertise for startups to enterprises 
 
 ### 7. **Training, Mentorship & Internship Programs**
-Through structured programs, DMV CoreTech provides industry-aligned upskilling, mentorship, and hands-on project experience for emerging tech talent — bridging academic learning with professional reality. :contentReference[oaicite:8]{index=8}
+Through structured programs, DMV CoreTech provides industry-aligned upskilling, mentorship, and hands-on project experience for emerging tech talent — bridging academic learning with professional reality.
 
 ---
 
@@ -74,7 +74,7 @@ DMV CoreTech is supported by a dedicated team of engineers, developers, and inno
 - **Yash Chandravanshi** — Team Member  
 - **Zainab Bohra** — Team Member  
 
-We foster collaboration, innovation, and excellence to deliver technology with impact. :contentReference[oaicite:9]{index=9}
+We foster collaboration, innovation, and excellence to deliver technology with impact. 
 
 ---
 
