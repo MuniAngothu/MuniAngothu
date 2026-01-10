@@ -69,10 +69,10 @@ Through structured programs, DMV CoreTech provides industry-aligned upskilling, 
 
 DMV CoreTech is supported by a dedicated team of engineers, developers, and innovators:
 
-- **Muni Angothu** — Founder & CTO  
-- **Shifa Shafat Sheikh** — Team Member  
-- **Yash Chandravanshi** — Team Member  
-- **Zainab Bohra** — Team Member  
+- **Muni Angothu** — Founder  
+- **Deepak Jha** — CEO & CTO  
+- **Varnika** — Founder  
+- **Nitesh Jha** — Project Manager 
 
 We foster collaboration, innovation, and excellence to deliver technology with impact. 
 
